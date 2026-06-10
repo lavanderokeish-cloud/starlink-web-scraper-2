@@ -1,0 +1,15 @@
+starlink-webscraper/
+│
+├── app.py
+├── scraper.py
+├── requirements.txt
+├── README.md
+│
+├── data/
+│   └── daily_data_usage.csv
+│
+├── templates/
+│   └── index.html
+│
+└── static/
+    └── style.css
